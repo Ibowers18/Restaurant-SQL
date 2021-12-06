@@ -1,6 +1,6 @@
 //models go here
 const {sequelize, DataTypes, Model} = require('./db')
-//create model for musicians in our database
+//create model for Customer in our database
 class Customer extends Model {
 //add query methods here
 }
